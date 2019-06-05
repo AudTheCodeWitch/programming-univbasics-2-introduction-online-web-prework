@@ -18,7 +18,7 @@ statements, and be responded to in a simple fashion. But once we'd learned to
 make simple statements in the form of complete sentences, we were asked to
 "elevate" our communication. We were expected to provide context to our
 requests and state our thoughts in an order that others could receive. In
-writing we were expected to move from simple, on-line answers to writing
+writing we were expected to move from simple, one-line answers to writing
 _paragraphs_.
 
 A two-year old might be able to express (and might well have a tantrum if denied):
